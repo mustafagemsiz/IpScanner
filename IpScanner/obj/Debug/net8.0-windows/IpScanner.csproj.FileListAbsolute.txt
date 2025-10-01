@@ -1,0 +1,17 @@
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\bin\Debug\net8.0-windows\IpScanner.exe
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\bin\Debug\net8.0-windows\IpScanner.deps.json
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\bin\Debug\net8.0-windows\IpScanner.runtimeconfig.json
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\bin\Debug\net8.0-windows\IpScanner.dll
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\bin\Debug\net8.0-windows\IpScanner.pdb
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.Form1.resources
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.Properties.Resources.resources
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.csproj.GenerateResource.cache
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.AssemblyInfoInputs.cache
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.AssemblyInfo.cs
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.csproj.CoreCompileInputs.cache
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.dll
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\refint\IpScanner.dll
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.pdb
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\IpScanner.genruntimeconfig.cache
+C:\Users\mgemsiz\source\repos\IpScanner\IpScanner\obj\Debug\net8.0-windows\ref\IpScanner.dll
